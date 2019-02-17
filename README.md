@@ -1,0 +1,1 @@
+this project was modified and developed from the codecacademy's javascript tutorıals.
