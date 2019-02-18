@@ -7,7 +7,14 @@ body{
 }
 .door-frame{
     cursor: pointer;
-    padding: 10px;
+   padding:10;
+    margin: 0 auto;
+    
+
+    
+
+    
+    
 }
 .header{
     background: rgb(0,255,255);
@@ -20,6 +27,9 @@ body{
     margin-top : 42px;
     margin-bottom : 21px;
     width:100%;
+    align-content: center;
+    
+    
 
 }
 .instructions-title{
@@ -32,6 +42,9 @@ body{
     font-family : 'Work Sans';
     font-size : 14px;
     color :#ffffff;
+    margin:0 auto;
+    
+    
 
 }
 .instructions-number{
@@ -39,19 +52,36 @@ body{
 font-family :'Work Sans';
 font-size : 36px;
 color : #00ffff;
+margin:0 auto;
+
+
 
 
 }
 .instructions-row{
     margin:0 auto;
-    width:30%;
+    width:35%;
+    display: inline;
+    align-content: center;
+    
+    
     
 }
 .door-row{
-    margin:0 auto;
-    margin-left:32%;
-    width:100%;
+    margin:auto;
+     padding:10;
+     width:100%;
+    
+     align-content: center;
+    
+}
+#imgs{
+    margin: 0 auto;
+    padding: 10;
+    width:25%;
+    
     align-content: center;
+    
 }
 .start-row{
     margin :auto;
