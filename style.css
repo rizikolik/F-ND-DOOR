@@ -2,8 +2,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin:0px;
     background-color: #010165;
-    
-    
 
 }
 .door-frame{
@@ -13,7 +11,6 @@ body{
 .header{
     background: rgb(0,255,255);
     text-align: center;
-    width:100%;
 }
 .title-row{
     
@@ -53,12 +50,12 @@ color : #00ffff;
 }
 .start-row{
     margin :auto;
-width : 10%;
+width : 9%;
 height : 9.5%;
 font-family : 'Work Sans';
 background-color : #eb6536;
 padding-top : 18px;
-font-size :16px;
+font-size :18px;
 text-align :center;
 color : #010165;
 margin-bottom : 21px;
