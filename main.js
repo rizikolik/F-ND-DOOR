@@ -107,14 +107,14 @@ const randomChoreDoorGenerator =()=>{//door generator
 }
 const gameOver=(status)=>{ //game status
     if(status==="win"){
-        startButton.innerHTML="You Win!Want to play Again?"
+        startButton.innerHTML="You Win!play Again?"
         getYourScore();
     
        
 
     }
     else if(status==='loose')  {
-        startButton.innerHTML="You lost!want to play Again?"
+        startButton.innerHTML="You lost!Again ?"
         
         
     }
